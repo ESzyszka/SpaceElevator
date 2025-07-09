@@ -1,10 +1,6 @@
 
 Project link: https://rocket-launcher-jzs8.vercel.app/
 
-About voice technology: 
-
-
-How to recycle this repository 
 
 # 1. Create rocket app 
 
@@ -21,7 +17,6 @@ npm install lucide-react
 #### Install Tailwind CSS (for styling)
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
-
 
 
 # 2. Set up GitHub 
