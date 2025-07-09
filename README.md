@@ -4,12 +4,14 @@ Project link: https://rocket-launcher-jzs8.vercel.app/
 
 # 1. Create rocket app 
 
-#### Navigate to your desired directory
+```
 cd Desktop
+```
 
-#### Create new React app
+```
 npx create-react-app rocket-launch-simulator
 cd rocket-launch-simulator
+```
 
 #### Install required dependency
 npm install lucide-react
