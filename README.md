@@ -22,10 +22,9 @@ npm install lucide-react
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
-# 2. Configure Tailwind CSS
 
 
-# GIthub 
+# 2. Set up GitHub 
 
 git remote add origin https://github.com/ESzyszka/SpaceElevator.git
 git branch -M main
